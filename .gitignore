@@ -1,0 +1,27 @@
+# mac files
+.DS_Store
+
+# package directories
+node_modules
+
+#Test coverage output
+.nyc_output
+coverage
+
+# Directories from build tools
+.serverless
+.webpack
+
+# misc stuff
+.vs
+.env
+.vscode
+.project
+builds
+.history
+.config
+.virtualenv/
+
+#python
+*.egg-info
+__pycache__
